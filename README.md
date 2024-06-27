@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am Raviteja, senior developer | Ex-IRIS | Ex-CITI
-a passionate self-learner
+I am Raviteja, Senior Developer and a passionate self-learner | Ex-IRIS | Ex-CITI
 
 ## About me!
 
@@ -14,8 +13,10 @@ a passionate self-learner
 
 ## 🔎 Search me on:
 
-https://www.linkedin.com/in/raviteja-yadlapalli-csm-046b1675/
-https://www.instagram.com/raviteja_39/
+<p align="left" dir="auto">
+<a href="https://www.linkedin.com/in/raviteja-yadlapalli-csm-046b1675/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi9720" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://instagram.com/raviteja_39" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ishutiwari75" height="30" width="40" style="max-width: 100%;"></a> <a href="https://www.hackerrank.com/abhi9720" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhi9720" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
 ## Tech Stack:
 
